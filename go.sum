@@ -1,0 +1,16 @@
+github.com/bluele/slack v0.0.0-20170929071952-fb5cadcf9ed2 h1:AZMvNzZTAf0VWlW/4McKS9NhKMT/j/NqxfbdCzHBtpM=
+github.com/bluele/slack v0.0.0-20170929071952-fb5cadcf9ed2/go.mod h1:W679Ri2W93VLD8cVpEY/zLH1ow4zhJcCyjzrKxfM3QM=
+github.com/dustin/go-humanize v0.0.0-20170228161531-259d2a102b87 h1:uPzP/9GIqYKvZAmz4IayKMMZiWRWNtGynUREBtTXPXA=
+github.com/dustin/go-humanize v0.0.0-20170228161531-259d2a102b87/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
+github.com/golang/protobuf v0.0.0-20170920220647-130e6b02ab05/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/google/go-github v0.0.0-20171101205232-464f5a91396a h1:K2SjF+EW3YM/hdf0AfQ6RSfTvu69NyqaRZuCF1JImG8=
+github.com/google/go-github v0.0.0-20171101205232-464f5a91396a/go.mod h1:zLgOLi98H3fifZn+44m+umXrS52loVEgC2AApnigrVQ=
+github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135 h1:zLTLjkaOFEFIOxY5BWLFLwh+cL8vOBW4XJ2aqLE/Tf0=
+github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
+github.com/xanzy/go-gitlab v0.5.1 h1:vc44y2lZCnLKXvi7X9/NFLYe9PgMzm2HDf+jvY5y/1Q=
+github.com/xanzy/go-gitlab v0.5.1/go.mod h1:CRKHkvFWNU6C3AEfqLWjnCNnAs4nj8Zk95rX2S3X6Mw=
+golang.org/x/net v0.0.0-20171004034648-a04bdaca5b32 h1:NjAulLPqFTaOxQu5S4qUMqscSu+mQdu+wMY0nfqSkuk=
+golang.org/x/net v0.0.0-20171004034648-a04bdaca5b32/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/oauth2 v0.0.0-20170928010508-bb50c06baba3 h1:YGx0PRKSN/2n/OcdFycCC0JUA/Ln+i5lPcN8VoNDus0=
+golang.org/x/oauth2 v0.0.0-20170928010508-bb50c06baba3/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
+google.golang.org/appengine v0.0.0-20170921170648-24e4144ec923/go.mod h1:EbEs0AVv82hx2wNQdGPgUI5lhzA/G0D9YwlJXL52JkM=

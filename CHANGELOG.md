@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+
+### Changed
+
+- Replace glide dependency tool with go mod
+
 ## [0.7.0] - 2017-12-07
 
 - Configuration format for whitelisting users has been changed to make it easier to
